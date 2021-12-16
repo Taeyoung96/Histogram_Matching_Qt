@@ -10,4 +10,4 @@ OS : Window 10
             Qt Creator version – 4.2.0
             MinGW 5.3.0 32bit
 
-자세한 내용은 https://taeyoung96.github.io/image_processing/histogram/ 를 참고해주세요.
+자세한 내용은 [Qt를 이용하여 Histogram specification(Equalization) 구현하기](https://taeyoung96.github.io/computer_vision/histogram/) 를 참고해주세요.
